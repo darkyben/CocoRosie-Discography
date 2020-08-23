@@ -100,3 +100,19 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 1. Lucky Clover  
 1. No One Knows  
 </details>
+
+<details>
+  <summary>2020 — Put The Shine On <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
+  
+1. High Road  <img align="right" src="https://img.discogs.com/3Fl856oDymnxWgqH2gdPLaUAGs8=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14916190-1584030699-9892.jpeg.jpg" height="300" width="300" />  
+1. Mercy  
+1. Restless  
+1. Smash My Head  
+1. Where Did All The Soldiers Go  
+1. Hell's Gate  
+1. Lamb And The Wolf  
+1. Slow Down Sun Down  
+1. Burning Down The House  
+1. Ruby Red  
+1. Aloha Friday  
+</details>
