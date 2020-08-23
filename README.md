@@ -23,8 +23,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 <details>
   <summary>2005 — Noah's Ark <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
   
-1. Terrible Angels <img align="right" src="https://img.discogs.com/JER9pOjFx79mxEsIr3hc7I6zIRQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515010-1465559157-3487.jpeg.jpg" height="300" width="300" />  
-1. K-Hole  
+1. K-Hole  <img align="right" src="https://img.discogs.com/JER9pOjFx79mxEsIr3hc7I6zIRQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515010-1465559157-3487.jpeg.jpg" height="300" width="300" />  
 1. Beautiful Boyz  
 1. South 2nd  
 1. Bear Hides And Buffalo  
@@ -40,9 +39,8 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 
 <details>
   <summary>2007 — The Adventures Of Ghosthorse And Stillborn <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
-  
-1. Terrible Angels <img align="right" src="https://img.discogs.com/sX1cW5Oyy4kEhcGEhg1l4lhPsBQ=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-944495-1175728878.jpeg.jpg" height="300" width="300" />  
-1. Rainbowarriors  
+
+1. Rainbowarriors  <img align="right" src="https://img.discogs.com/sX1cW5Oyy4kEhcGEhg1l4lhPsBQ=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-944495-1175728878.jpeg.jpg" height="300" width="300" />  
 1. Promise  
 1. Bloody Twins  
 1. Japan  
@@ -59,8 +57,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 <details>
   <summary>2010 — Grey Oceans <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
   
-1. Terrible Angels <img align="right" src="https://img.discogs.com/8rIPzZiA7eeXk5SbJefBiYmLrUE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2276012-1273882797.jpeg.jpg" height="300" width="300" />  
-1. Trinity's Crying  
+1. Trinity's Crying  <img align="right" src="https://img.discogs.com/8rIPzZiA7eeXk5SbJefBiYmLrUE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2276012-1273882797.jpeg.jpg" height="300" width="300" />  
 1. Smokey Taboo  
 1. Hopscotch  
 1. Undertaker  
@@ -76,8 +73,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 <details>
   <summary>2013 — Tales Of A Grasswidow <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
   
-1. Terrible Angels <img align="right" src="https://img.discogs.com/AtUwfApm3Wkbu_wcNa8StQiediw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4593618-1595261055-9349.jpeg.jpg" height="300" width="300" />  
-1. After The Afterlife  
+1. After The Afterlife  <img align="right" src="https://img.discogs.com/AtUwfApm3Wkbu_wcNa8StQiediw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4593618-1595261055-9349.jpeg.jpg" height="300" width="300" />  
 1. Tears For Animals  
 1. Child Bride  
 1. Broken Chariot  
