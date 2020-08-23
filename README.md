@@ -55,3 +55,52 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 1. Girl And The Geese  
 1. Miracle  
 </details>
+
+<details>
+  <summary>2010 — Grey Oceans <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
+  
+1. Terrible Angels <img align="right" src="https://img.discogs.com/8rIPzZiA7eeXk5SbJefBiYmLrUE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2276012-1273882797.jpeg.jpg" height="300" width="300" />  
+1. Trinity's Crying  
+1. Smokey Taboo  
+1. Hopscotch  
+1. Undertaker  
+1. Grey Oceans  
+1. R.I.P. Burn Face  
+1. The Moon Asked The Crow  
+1. Lemonade  
+1. Gallows  
+1. Fairy Paradise  
+1. Here I Come  
+</details>
+
+<details>
+  <summary>2013 — Tales Of A Grasswidow <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
+  
+1. Terrible Angels <img align="right" src="https://img.discogs.com/AtUwfApm3Wkbu_wcNa8StQiediw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4593618-1595261055-9349.jpeg.jpg" height="300" width="300" />  
+1. After The Afterlife  
+1. Tears For Animals  
+1. Child Bride  
+1. Broken Chariot  
+1. End Of Time  
+1. Harmless Monster  
+1. Gravediggress  
+1. Far Away  
+1. Roots Of My Hair  
+1. Villain  
+1. Poison  
+</details>
+
+<details>
+  <summary>2015 — Heartache City <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
+  
+1. Forget Me Not  <img align="right" src="https://img.discogs.com/-30Oiv6M8FhJz_oTpqSyL6z35hs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7598184-1444839260-6539.jpeg.jpg" height="300" width="300" />  
+1. Un Beso  
+1. Lost Girls  
+1. Heartache City  
+1. The Tower Of Pisa  
+1. Bed Bugs  
+1. Tim & Tina  
+1. Big & Black  
+1. Lucky Clover  
+1. No One Knows  
+</details>
