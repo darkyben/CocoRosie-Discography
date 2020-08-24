@@ -97,7 +97,8 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 1. End of Time
 1. Harmless Monster
 1. Teen Angel
-1. We Are On Fire
+1. We Are On Fire  
+> [youtube](https://www.youtube.com/watch?v=OufhJCEroMo)
 </details>
 
 <details>
