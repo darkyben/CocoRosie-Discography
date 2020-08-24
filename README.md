@@ -98,7 +98,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 1. Harmless Monster
 1. Teen Angel
 1. We Are On Fire  
-> [youtube](https://www.youtube.com/watch?v=OufhJCEroMo)
+> [youtube](https://www.youtube.com/watch?v=OufhJCEroMo) | `264kbps`
 </details>
 
 <details>
