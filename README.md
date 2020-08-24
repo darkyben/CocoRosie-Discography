@@ -87,7 +87,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
-  <summary>2013 — FM4 Radio Session <img align="right" src="https://img.shields.io/badge/-radio-lightgrey?style=for-the-badge" /></summary>  
+  <summary>2013 — FM4 Radio Session <img align="right" src="https://img.shields.io/badge/-radio-9cf?style=for-the-badge" /></summary>  
   
 1. After the Afterlife  <img align="right" src="https://66.media.tumblr.com/tumblr_mp3fyfFeb31rbjfj8o1_1372406920_cover.jpg" height="300" width="300" />  
 1. Roots of My Hair
