@@ -71,6 +71,25 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
+  <summary>2010 — Daytrotter session <img align="right" src="https://img.shields.io/badge/-radio-9cf?style=for-the-badge" /></summary>  
+  
+1. Welcome to Daytrotter  <img align="right" src="https://images.daytrotter.com/concerts/320/20031296-37382356.jpg" height="300" width="300" />  
+1. The Moon Asked The Crow
+1. Fatherhood
+1. R.I.P. Burnface
+1. Lemonade
+1. Fairy Paradise
+  
+   
+   
+    
+    
+> [source](https://www.pastemagazine.com/noisetrade/music/cocorosie/aug-16-2010-daytrotter-studio-rock-island-il) | `320 kbps`
+</details>
+
+
+
+<details>
   <summary>2013 — Tales Of A Grasswidow <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
   
 1. After The Afterlife  <img align="right" src="https://img.discogs.com/AtUwfApm3Wkbu_wcNa8StQiediw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4593618-1595261055-9349.jpeg.jpg" height="300" width="300" />  
