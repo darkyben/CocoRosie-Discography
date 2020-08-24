@@ -54,6 +54,29 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 1. Miracle  
 </details>
 
+
+<details>
+  <summary>2009 — Live at Openluchttheater Netherlands  <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
+  
+1. Hopscotch / Fatherhood  <img align="right" src="https://artwork.ibroadcast.com/artwork/8204472-300" height="300" width="300" />  
+2. K Hole
+3. Happy Eyes
+4. Terrible Angels
+5. Gallows
+6. Animals
+7. Bear Hides And Buffalo
+8. Techno Love Song
+9. Milkman
+10. Beautiful Boys
+11. Lemonade
+12. Japan
+13. Promise - The Black Swan
+14. Afterlife Party
+15. (Unknown)
+16. Turn Me On
+> `320 kbps`
+</details>
+
 <details>
   <summary>2010 — Grey Oceans <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
   
