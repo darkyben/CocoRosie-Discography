@@ -133,6 +133,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 1. Big & Black  
 1. Lucky Clover  
 1. No One Knows  
+1. Lilies Of Innocence (feat. ANOHNI) _(hidden track)_
 </details>
 
 <details>
