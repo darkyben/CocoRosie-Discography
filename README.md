@@ -110,7 +110,23 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 > [source](https://www.pastemagazine.com/noisetrade/music/cocorosie/aug-16-2010-daytrotter-studio-rock-island-il) | `320 kbps`
 </details>
 
-
+<details>
+  <summary>2013 — Live Les Bouffes du Nord <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
+  
+1. Intro  <img align="right" src="https://artwork.ibroadcast.com/artwork/7531375-300" height="300" width="300" />  
+2. Child Bride	
+3. End of Time	
+4. Harmless Monster	
+5. Tears for Animals	
+6. After the Afterlife	
+7. Gravediggress	
+8. Ana Lama	
+9. (Tez - beatbox)	
+10. Villain - Lyomi	
+11. Far Away	
+12. Undertaker
+> `320 kbps`
+</details>
 
 <details>
   <summary>2013 — Tales Of A Grasswidow <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
