@@ -87,6 +87,20 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
+  <summary>2013 — FM4 Radio Session <img align="right" src="https://img.shields.io/badge/-radio-lightgrey?style=for-the-badge" /></summary>  
+  
+1. After the Afterlife  <img align="right" src="https://66.media.tumblr.com/tumblr_mp3fyfFeb31rbjfj8o1_1372406920_cover.jpg" height="300" width="300" />  
+1. Roots of My Hair
+1. Japan
+1. Bloody Twins
+1. Far Away
+1. End of Time
+1. Harmless Monster
+1. Teen Angel
+1. We Are On Fire
+</details>
+
+<details>
   <summary>2015 — Heartache City <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
   
 1. Forget Me Not  <img align="right" src="https://img.discogs.com/-30Oiv6M8FhJz_oTpqSyL6z35hs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7598184-1444839260-6539.jpeg.jpg" height="300" width="300" />  
