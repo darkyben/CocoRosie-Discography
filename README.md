@@ -113,6 +113,30 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 1. Miracle  
 </details>
 
+<details>
+  <summary>2008 — Live at Factory Theatre in Sydney <img align="right" src="https://img.shields.io/badge/-%e2%A0%80live-78866b?style=for-the-badge" /></summary>  
+  
+1. Houses  <img align="right" src="https://i.imgur.com/tvZoTeb.png" height="300" width="300" />  
+2. Promise
+3. Bloody Twins
+4. Animals
+5. Good Friday
+6. Bear Hides & Buffalo
+7. K - Hole
+8. Beautiful Boys
+9. By Your Side
+10. Tekno Love Song
+11. The Afterlife Party
+12. Japan
+13. Tahiti Rain Song
+14. Good Friday
+> [Source](https://www.moshcam.com/videos/full-gigs/1510/cocorosie-factory-theatre-87) | `320 kbps`
+> <details>
+>  <summary>NFO</summary>
+>  CocoRosie, live at Factory Theatre in Sydney, AU. Recorded March 8, 2008.
+</details>
+</details>
+
 
 <details>
   <summary>2009 — Live at Openluchttheater Netherlands  <img align="right" src="https://img.shields.io/badge/-%e2%A0%80live-78866b?style=for-the-badge" /></summary>  
