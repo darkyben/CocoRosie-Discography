@@ -57,6 +57,46 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
+  <summary>2007 — Live Paris Olympia <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
+  
+1. Lyla  <img align="right" src="https://artwork.ibroadcast.com/artwork/8114008-300" height="300" width="300" />  
+2. Tekno love song
+3. Black swan
+4. Promise
+5. Terrible angels
+6. Black poppies
+7. Black Rainbow
+8. Interlude
+9. Animals
+10. Sunshine
+11. Summer breeze
+12. K-Hole
+13. Beautiful boyz
+14. Bloody twins
+15. Good friday
+16. Turn Me On
+17. Houses
+18. Armageddon
+19. Japan
+20. Presentation du groupe
+21. Werewolf
+22. End of time
+23. I'll Never Cry For Another Boy
+> `320 kbps`
+> <details>
+>  <summary>NFO</summary>
+>  COCOROSIE  
+>
+>  Concert α l'Olympia (Paris) 27/09/2007  
+>  
+>  Format MP3 VBR  
+>
+>  Enregistré lors de la diffusion du concert en direct sur France-inter
+>  Quelques commentaires par Bernard lenoir et Hugo Cassavetti
+</details>
+</details>
+
+<details>
   <summary>2007 — The Adventures Of Ghosthorse And Stillborn <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
 
 1. Rainbowarriors  <img align="right" src="https://img.discogs.com/sX1cW5Oyy4kEhcGEhg1l4lhPsBQ=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-944495-1175728878.jpeg.jpg" height="300" width="300" />  
