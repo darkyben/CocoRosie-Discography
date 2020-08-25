@@ -38,6 +38,25 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
+  <summary>2006 — Live Motel Mozaique  <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
+  
+1. Bear Hides & Buffalo <img align="right" src="https://i.imgur.com/0FbF831.png" height="300" width="300" />  
+2. K-Hole
+3. South 2nd
+4. Sunshine
+5. Dizzy Dog
+6. Beautiful Boyz
+7. Miracle
+8. Japan
+9. By Your Side
+10. Turn Me On
+11. Noah's Ark
+12. Honey Or Tar
+13. Tekno Love Song
+> [source](https://www.youtube.com/watch?v=HMmoYz9zHqY) | `320 kbps`
+</details>
+
+<details>
   <summary>2007 — The Adventures Of Ghosthorse And Stillborn <img align="right" src="https://img.shields.io/badge/-album-lightgrey?style=for-the-badge" /></summary>  
 
 1. Rainbowarriors  <img align="right" src="https://img.discogs.com/sX1cW5Oyy4kEhcGEhg1l4lhPsBQ=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-944495-1175728878.jpeg.jpg" height="300" width="300" />  
