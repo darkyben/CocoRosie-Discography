@@ -38,7 +38,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
-  <summary>2006 — Live Motel Mozaique  <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
+  <summary>2006 — Live Motel Mozaique  <img align="right" src="https://img.shields.io/badge/-bootleg-CC8400?style=for-the-badge" /></summary>  
   
 1. Bear Hides & Buffalo <img align="right" src="https://i.imgur.com/0FbF831.png" height="300" width="300" />  
 2. K-Hole
@@ -53,7 +53,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 11. Noah's Ark
 12. Honey Or Tar
 13. Tekno Love Song
-> [source](https://www.youtube.com/watch?v=HMmoYz9zHqY) | `320 kbps`
+> `128 kbps`
 </details>
 
 <details>
