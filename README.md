@@ -170,6 +170,22 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
+  <summary>2010 — Black Session <img align="right" src="https://img.shields.io/badge/-radio-9cf?style=for-the-badge" /></summary>  
+  
+1. R.I.P. Burn Face  <img align="right" src="https://i.imgur.com/q7XRCX8.png" height="300" width="300" />  
+2. Black Rainbow	
+3. Undertaker	
+4. Happy Eyz	
+5. The Moon Asked The Crow	
+6. God Has A Voice	
+7. Animals	
+8. Turn Me On	
+9. Beautiful Boyz	
+10. Fairy Paradise  
+>  `320kbps`
+</details>
+
+<details>
   <summary>2013 — Live Les Bouffes du Nord <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
   
 1. Intro  <img align="right" src="https://artwork.ibroadcast.com/artwork/7531375-300" height="300" width="300" />  
