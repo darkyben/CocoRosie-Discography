@@ -38,7 +38,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
-  <summary>2006 — Live Motel Mozaique  <img align="right" src="https://img.shields.io/badge/-bootleg-CC8400?style=for-the-badge" /></summary>  
+  <summary>2006 — Live Motel Mozaique  <img align="right" src="https://img.shields.io/badge/-bootl-CC8400?style=for-the-badge" /></summary>  
   
 1. Bear Hides & Buffalo <img align="right" src="https://i.imgur.com/0FbF831.png" height="300" width="300" />  
 2. K-Hole
@@ -57,7 +57,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
-  <summary>2007 — Live Paris Olympia <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
+  <summary>2007 — Live Paris Olympia <img align="right" src="https://img.shields.io/badge/-%e2%A0%80live-78866b?style=for-the-badge" /></summary>  
   
 1. Lyla  <img align="right" src="https://artwork.ibroadcast.com/artwork/8114008-300" height="300" width="300" />  
 2. Tekno love song
@@ -115,7 +115,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 
 
 <details>
-  <summary>2009 — Live at Openluchttheater Netherlands  <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
+  <summary>2009 — Live at Openluchttheater Netherlands  <img align="right" src="https://img.shields.io/badge/-%e2%A0%80live-78866b?style=for-the-badge" /></summary>  
   
 1. Hopscotch / Fatherhood  <img align="right" src="https://artwork.ibroadcast.com/artwork/8204472-300" height="300" width="300" />  
 2. K Hole
@@ -186,7 +186,7 @@ CocoRosie Discography (LP, EP, Bootlegs, Live &amp; Radio Sessions)
 </details>
 
 <details>
-  <summary>2013 — Live Les Bouffes du Nord <img align="right" src="https://img.shields.io/badge/-live-78866b?style=for-the-badge" /></summary>  
+  <summary>2013 — Live Les Bouffes du Nord <img align="right" src="https://img.shields.io/badge/-%e2%A0%80live-78866b?style=for-the-badge" /></summary>  
   
 1. Intro  <img align="right" src="https://artwork.ibroadcast.com/artwork/7531375-300" height="300" width="300" />  
 2. Child Bride	
